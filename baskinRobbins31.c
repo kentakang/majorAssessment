@@ -25,7 +25,7 @@ int main()
 			}
 			printf("\n");
 			
-			if(cnt == 31)
+			if(cnt >= 31)
 			{
 				printf("computer win");
 				break;
@@ -43,7 +43,7 @@ int main()
 			}
 			printf("\n");
 			
-			if(cnt == 31)
+			if(cnt >= 31)
 			{
 				printf("you win");
 				break;
